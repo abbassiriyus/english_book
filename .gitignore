@@ -1,1 +1,13 @@
-node_modules
+# Generated
+dist/
+node_modules/
+.netlify/
+
+# Round Up 2 (c) Pearson: local teaching copy, do not publish
+New Round up 2.pdf
+roundup/
+
+# Not for publishing: readable course source, login details, the guide with the login
+src/
+.course-login
+qollanma/
