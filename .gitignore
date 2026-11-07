@@ -11,3 +11,13 @@ roundup/
 src/
 .course-login
 qollanma/
+
+# Python course build output
+python/dist/
+web/dist/
+
+# Course sources: the repository is public, publish only the protected builds
+python/lessons/
+python/src/
+web/lessons/
+web/src/
